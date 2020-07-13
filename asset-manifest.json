@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-first-assignment/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-first-assignment/static/js/main.db6aeed6.chunk.js",
+    "main.js.map": "/react-first-assignment/static/js/main.db6aeed6.chunk.js.map",
+    "runtime-main.js": "/react-first-assignment/static/js/runtime-main.000789c8.js",
+    "runtime-main.js.map": "/react-first-assignment/static/js/runtime-main.000789c8.js.map",
+    "static/js/2.2b5c4290.chunk.js": "/react-first-assignment/static/js/2.2b5c4290.chunk.js",
+    "static/js/2.2b5c4290.chunk.js.map": "/react-first-assignment/static/js/2.2b5c4290.chunk.js.map",
+    "index.html": "/react-first-assignment/index.html",
+    "precache-manifest.5a93ab4ab215039e4263ec3418e65139.js": "/react-first-assignment/precache-manifest.5a93ab4ab215039e4263ec3418e65139.js",
+    "service-worker.js": "/react-first-assignment/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-first-assignment/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2b5c4290.chunk.js.LICENSE.txt": "/react-first-assignment/static/js/2.2b5c4290.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-first-assignment/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.000789c8.js",
+    "static/js/2.2b5c4290.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.db6aeed6.chunk.js"
+  ]
+}
